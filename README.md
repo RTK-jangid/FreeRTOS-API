@@ -1,3 +1,5 @@
-Developing FREE-RTOS API for Drone firmware \n
-PID controller implementation\n
+Developing FREE-RTOS API for Drone firmware 
+
+PID controller implementation
+
 Task scheduling implementation
